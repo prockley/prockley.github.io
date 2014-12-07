@@ -3,8 +3,15 @@ title:       Pixyll
 email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url:     "http://pixyll.com"
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl:      "http://pixyll.com"
 
 # Google analytics
 google_analytics:
@@ -15,11 +22,11 @@ show_related_posts: false
 show_post_footers:  false
 
 # Social icons
-show_social_icons: false
-github_username:
+show_social_icons: true
+github_username: prockley
 twitter_username:
 google_plus_id:
-linkedin_username:
+linkedin_username: example
 bitcoin_url:
 paypal_url:
 flattr_button:
