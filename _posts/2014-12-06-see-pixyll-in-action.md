@@ -14,6 +14,14 @@ of a paragraph. The _same_ goes for italics and __bold__ elements. Even the the 
 works if <del>for some reason you need to update your post</del>. For consistency's sake,
 <ins>The same goes for insertions</ins>, of course.
 
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+
+width="500px" height="500px" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
+
+<circle fill="#F7941E" stroke="#231F20" stroke-width="10" cx="250" cy="250" r="200" opacity="0.6" />
+
+</svg>
+
 ### Code, with syntax highlighting
 
 Code blocks use the [solarized](http://ethanschoonover.com/solarized) theme. Both the light and
