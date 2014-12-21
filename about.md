@@ -1,19 +1,13 @@
 ---
 layout: page
-title: About Pixyll
+title: About 'A Data Blog'
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Having recently been educated in the ways of data analytics at CIT Cork, I set up this blog to keep on exploring. I use Tableau data visualisation software at work but want to get better at other useful tech - R, Python, D3.js, Hadoop... (who knows what else). With any luck there'll be some interesting stuff to put up here.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+\- _Paul Rockley ([@prockley](https://twitter.com/prockley))._  
 
-Thanks to the following:
+----
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+<sub><sup>I'm not a web designer and so am hugely thankful to the lovely Pixyll theme for Jekyll which has put some shape to this site. Checkout the [Github repository](https://github.com/johnotander/pixyll) to have a look at it.</sup></sub>
