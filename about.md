@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About 'A Data Blog'
+title: What's this?
 permalink: /about/
 ---
 
