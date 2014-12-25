@@ -14,7 +14,7 @@ url:     "http://prockley.github.io"
 baseurl:      "http://prockley.github.io"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-57994674-1
 
 # Optional features
 animated:           false
