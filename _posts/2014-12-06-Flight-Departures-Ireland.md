@@ -48,19 +48,23 @@ Shown below are the numbers of travellers leaving Irish airports from 2005 - 201
   </object>
 </div>
 
-##### Reduction in Domestic Flights
+#### Reduction in Domestic Travellers
 
 At the start of the period, flights to domestic airports were the 4<sup>th</sup> highest ranked of the categories shown (000 travellers). By 2013 it was the lowest ranked (out of 9) with just nnn travellers.
 
 Domestic numbers had been overtaken by flights to the Americas, Eastern Europe, Northern Europe, Africa and Asia.
 
-##### Changes in overall passenger numbers
+#### Other Trends
+
+##### Overall Passenger Numbers
 
 The highest number of departing travellers was reached in 2008 with a total number of xxx travellers. The lowest number was yyy in 2011. The most recent figures for 2013 show zzz travellers.
 
-##### Other trends
+##### Travellers to Eastern Europe overtake those to Northern Europe
 
 Numbers of travellers to Eastern Europe overtook those to Northern Europe in 2008.
+
+##### Increase in numbers flying to Africa and Asia
 
 There were large increases in the numbers flying to Africa and Asia; numbers xxx.
 
