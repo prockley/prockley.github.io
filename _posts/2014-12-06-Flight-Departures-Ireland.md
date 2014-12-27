@@ -41,7 +41,7 @@ This blog uses data from the CSO.
 
 ### How did the domestic flights decrease 2005 - 2013? DRAFT
 
-The following indicates the numbers of travellers leaving Irish airports from 2005 - 2013. The thicker the lines the more travellers are leaving for the indicated region. Domestic flights are highlighted in <span style="color: rgb(253,141,60);">__Orange__</span>.
+The following indicates the numbers of travellers leaving Irish airports from 2005 - 2013. The thicker the lines the more travellers are leaving for the indicated region. Domestic flights are highlighted in <span style="color: rgb(253,141,60);">Orange</span>.
 
 <div class="svg-container_16-9">
   <object type="image/svg+xml" data="{{ site.baseurl }}/images/141224_DestRegionsYears_GreyIreland.svg" width="100%" height="100%" class="svg-content">Your browser does not support SVG
