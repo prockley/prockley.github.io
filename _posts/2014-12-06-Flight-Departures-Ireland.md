@@ -37,11 +37,11 @@ categories: jekyll svg
   </style>
 </head>
 
-This blog uses data from the CSO.
+#### How did Ireland's domestic flights decrease 2005 - 2013? DRAFT
 
-### How did the domestic flights decrease 2005 - 2013? DRAFT
+Using CSO data this post looks at how the number of passengers travelling on domestic routes reduced from 2005.
 
-The following indicates the numbers of travellers leaving Irish airports from 2005 - 2013. The thicker the lines the more travellers are leaving for the indicated region. Domestic flights are highlighted in <span style="color: rgb(253,141,60);">Orange</span>.
+Shown below the numbers of travellers leaving Irish airports from 2005 - 2013 on scheduled flights. The thicker the lines the more travellers are leaving for the indicated region. Flights to domestic airports are highlighted in <span style="color: rgb(253,141,60);">Orange</span>.
 
 <div class="svg-container_16-9">
   <object type="image/svg+xml" data="{{ site.baseurl }}/images/141224_DestRegionsYears_GreyIreland.svg" width="100%" height="100%" class="svg-content">Your browser does not support SVG
@@ -50,11 +50,19 @@ The following indicates the numbers of travellers leaving Irish airports from 20
 
 ##### Reduction in Domestic Flights
 
-At the start of the period, in 2005 flights to domestic airports were the 4<sup>th</sup> highest ranked with 000 travellers. By 2013 it was the lowest ranked (out of 9) with just nnn travellers.
+At the start of the period, flights to domestic airports were the 4<sup>th</sup> highest ranked of the categories shown (000 travellers). By 2013 it was the lowest ranked (out of 9) with just nnn travellers.
 
-##### Overall trend
+Domestic numbers had been overtaken by flights to the Americas, Eastern Europe, Northern Europe, Africa and Asia.
 
-The highest number of departing travellers was reached in 2008 with a total number of xxx travellers. Teh lowest number was yyy in 2011. The most recent figures for 2013 show zzz travellers.
+
+
+##### Other trends
+
+The highest number of departing travellers was reached in 2008 with a total number of xxx travellers. The lowest number was yyy in 2011. The most recent figures for 2013 show zzz travellers.
+
+Numbers of travellers to Eastern Europe overtook those to Northern Europe in 2008.
+
+There were large increases in the numbers flying to Africa and Asia; numbers xxx.
 
 ---
 
