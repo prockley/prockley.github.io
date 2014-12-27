@@ -50,8 +50,11 @@ The following indicates the numbers of travellers leaving Irish airports from 20
   </object>
 </div>
 
-- At the start of the period, in 2005 flights to domestic airports were the 4<sup>th</sup> highest ranked with 000 travellers. By 2013 it was the lowest ranked (out of 9) with just nnn travellers.
-- The highest number of departing travellers was reached in 2008 with a total number of xxx travellers. Teh lowest number was yyy in 2011. The most recent figures for 2013 show zzz travellers.
+##### Reduction in Domestic Flights
+At the start of the period, in 2005 flights to domestic airports were the 4<sup>th</sup> highest ranked with 000 travellers. By 2013 it was the lowest ranked (out of 9) with just nnn travellers.
+
+##### Overall trend
+The highest number of departing travellers was reached in 2008 with a total number of xxx travellers. Teh lowest number was yyy in 2011. The most recent figures for 2013 show zzz travellers.
 
 ---
 
