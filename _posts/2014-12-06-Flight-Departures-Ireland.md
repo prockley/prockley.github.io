@@ -54,7 +54,7 @@ At the start of the period, flights to domestic airports were the 4<sup>th</sup>
 
 Domestic numbers had been overtaken by flights to the Americas, Eastern Europe, Northern Europe, Africa and Asia.
 
-#### Other Trends
+### Other Trends
 
 ##### Overall Passenger Numbers
 
