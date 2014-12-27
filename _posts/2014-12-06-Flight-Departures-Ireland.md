@@ -41,7 +41,7 @@ categories: jekyll svg
 
 Using CSO data this post looks at how the number of passengers travelling on domestic routes reduced from 2005.
 
-Shown below the numbers of travellers leaving Irish airports from 2005 - 2013 on scheduled flights. The thicker the lines the more travellers are leaving for the indicated region. Flights to domestic airports are highlighted in <span style="color: rgb(253,141,60);">Orange</span>.
+Shown below are the numbers of travellers leaving Irish airports from 2005 - 2013 on scheduled flights. The thicker the lines the more travellers are leaving for the indicated region. Flights to domestic airports are highlighted in <span style="color: rgb(253,141,60);">Orange</span>.
 
 <div class="svg-container_16-9">
   <object type="image/svg+xml" data="{{ site.baseurl }}/images/141224_DestRegionsYears_GreyIreland.svg" width="100%" height="100%" class="svg-content">Your browser does not support SVG
@@ -54,11 +54,11 @@ At the start of the period, flights to domestic airports were the 4<sup>th</sup>
 
 Domestic numbers had been overtaken by flights to the Americas, Eastern Europe, Northern Europe, Africa and Asia.
 
-
-
-##### Other trends
+##### Changes in overall passenger numbers
 
 The highest number of departing travellers was reached in 2008 with a total number of xxx travellers. The lowest number was yyy in 2011. The most recent figures for 2013 show zzz travellers.
+
+##### Other trends
 
 Numbers of travellers to Eastern Europe overtook those to Northern Europe in 2008.
 
