@@ -37,7 +37,7 @@ categories: jekyll svg
   </style>
 </head>
 
-#### How did Ireland's domestic flights decrease 2005 - 2013? DRAFT
+### How did Ireland's domestic flights decrease 2005 - 2013? DRAFT
 
 Using CSO data this post looks at how the number of passengers travelling on domestic routes reduced from 2005.
 
@@ -48,15 +48,15 @@ Shown below are the numbers of travellers leaving Irish airports from 2005 - 201
   </object>
 </div>
 
-#### Reduction in Domestic Travellers
+##### Reduction in Domestic Travellers
 
 At the start of the period, flights to domestic airports were the 4<sup>th</sup> highest ranked of the categories shown (000 travellers). By 2013 it was the lowest ranked (out of 9) with just nnn travellers.
 
 Domestic numbers had been overtaken by flights to the Americas, Eastern Europe, Northern Europe, Africa and Asia.
 
-### Other Trends
+---
 
-#### Heading 4 - Dodgey?
+### Other Trends
 
 ##### Overall Passenger Numbers
 
