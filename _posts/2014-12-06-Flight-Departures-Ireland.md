@@ -37,11 +37,11 @@ categories: jekyll svg
   </style>
 </head>
 
-### How did Ireland's domestic flights decrease 2005 - 2013? DRAFT
+### The decrease in Ireland's domestic air travel between 2005 and 2013?
 
-Using CSO data this post looks at how the number of passengers travelling on domestic routes reduced from 2005.
+Using CSO data this post looks at how the number of passengers travelling on domestic routes in the Republic has reduced since 2005.
 
-Shown below are the numbers of travellers leaving Irish airports from 2005 - 2013 on scheduled flights. The thicker the lines the more travellers are leaving for the indicated region. Flights to domestic airports are highlighted in <span style="color: rgb(253,141,60);">Orange</span>.
+The chart shows the numbers of travellers leaving Irish airports from 2005 - 2013 on scheduled flights. The thicker the line the more travellers are leaving for the region indicated. Flights to domestic airports are highlighted in <span style="color: rgb(253,141,60);">Orange</span>.
 
 <div class="svg-container_16-9">
   <object type="image/svg+xml" data="{{ site.baseurl }}/images/141224_DestRegionsYears_GreyIreland.svg" width="100%" height="100%" class="svg-content">Your browser does not support SVG
@@ -50,26 +50,36 @@ Shown below are the numbers of travellers leaving Irish airports from 2005 - 201
 
 ##### Reduction in Domestic Travellers
 
-At the start of the period, flights to domestic airports were the 4<sup>th</sup> highest ranked of the categories shown (000 travellers). By 2013 it was the lowest ranked (out of 9) with just nnn travellers.
+At the start of the period, flights to domestic airports were the 4<sup>th</sup> highest ranked of the categories shown, with 934,400 travellers. By 2013 it was the lowest ranked with 49,500 travellers -  _just 5% of the 2005 figure_.
 
 Domestic numbers had been overtaken by flights to the Americas, Eastern Europe, Northern Europe, Africa and Asia.
 
+It is commonly thought that the main drivers of this change was the substantial completion of the country's motorway network and the severe recession which hit the economy during this period.
+
 ---
 
-### Other Trends
+### Other trends...
 
-##### Overall Passenger Numbers
+##### Recovery in overall Passenger Numbers
 
-The highest number of departing travellers was reached in 2008 with a total number of xxx travellers. The lowest number was yyy in 2011. The most recent figures for 2013 show zzz travellers.
+The highest annual number of departing travellers was reached in 2008 with a total number of 14.3 million departing travellers. The lowest number was 11.3 million in 2010.
+
+The most recent figures (2013), show that numbers have recovered to 11.9 million travellers.
 
 ##### Travellers to Eastern Europe overtake those to Northern Europe
 
 Numbers of travellers to Eastern Europe overtook those to Northern Europe in 2008.
 
-##### Increase in numbers flying to Africa and Asia
+In 2005 where were 285,200 departing passengers to Eastern Europe. There are now 686,400 (2013).
 
-There were large increases in the numbers flying to Africa and Asia; numbers xxx.
+Poland is the country which is most responsible for this increase. In 2005 75,400 passengers flew to the country. By 2013 this had increased to 458,600.
+
+##### Large increase in numbers flying to Africa and Asia
+
+Over the period numbers flying to Africa went from 23,200 to 328,700. Most of this is due to the much greater numbers flying to the Canary Islands.
+
+The equivalent figures for Asia show that passenger numbers increased from 2,100 to 322,600. Much of this increase is due to huge increases in traffic to the UAE.
 
 ---
 
-If you're interested, check out the technical details [here](https://github.com/prockley/Air_Passengers_Dep_raw.densitydesign/tree/master).
+If you're interested, check out the [technical details](https://github.com/prockley/Air_Passengers_Dep_raw.densitydesign/tree/master) and [data](https://github.com/prockley/Air_Passengers_Dep_raw.densitydesign/tree/master/data).
