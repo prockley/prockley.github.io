@@ -41,9 +41,7 @@ This blog uses data from the CSO.
 
 ### How did the domestic flights decrease 2005 - 2013? DRAFT
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate
-
-The following indicates the numbers of travellers leaving Irish airports from 2005 - 2013. The thicker the lines the more travellers are leaving for the indicated region.
+The following indicates the numbers of travellers leaving Irish airports from 2005 - 2013. The thicker the lines the more travellers are leaving for the indicated region. Domestic flights are highlighted in <span style="color: rgb(253,141,60);">__Orange__</span>.
 
 <div class="svg-container_16-9">
   <object type="image/svg+xml" data="{{ site.baseurl }}/images/141224_DestRegionsYears_GreyIreland.svg" width="100%" height="100%" class="svg-content">Your browser does not support SVG
@@ -51,9 +49,11 @@ The following indicates the numbers of travellers leaving Irish airports from 20
 </div>
 
 ##### Reduction in Domestic Flights
+
 At the start of the period, in 2005 flights to domestic airports were the 4<sup>th</sup> highest ranked with 000 travellers. By 2013 it was the lowest ranked (out of 9) with just nnn travellers.
 
 ##### Overall trend
+
 The highest number of departing travellers was reached in 2008 with a total number of xxx travellers. Teh lowest number was yyy in 2011. The most recent figures for 2013 show zzz travellers.
 
 ---
