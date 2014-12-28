@@ -37,7 +37,7 @@ categories: jekyll svg
   </style>
 </head>
 
-### The decrease in Ireland's domestic air travel between 2005 and 2013?
+### The decrease in Ireland's domestic air travel between 2005 and 2013
 
 Using CSO data this post looks at how the number of passengers travelling on domestic routes in the Republic has reduced since 2005.
 
@@ -52,8 +52,6 @@ The chart shows the numbers of travellers leaving Irish airports from 2005 - 201
 
 At the start of the period, flights to domestic airports were the 4<sup>th</sup> highest ranked of the categories shown, with 934,400 travellers. By 2013 it was the lowest ranked with 49,500 travellers -  _just 5% of the 2005 figure_.
 
-Domestic numbers had been overtaken by flights to the Americas, Eastern Europe, Northern Europe, Africa and Asia.
-
 It is commonly thought that the main drivers of this change was the substantial completion of the country's motorway network and the severe recession which hit the economy during this period.
 
 ---
@@ -62,24 +60,16 @@ It is commonly thought that the main drivers of this change was the substantial 
 
 ##### Recovery in overall Passenger Numbers
 
-The highest annual number of departing travellers was reached in 2008 with a total number of 14.3 million departing travellers. The lowest number was 11.3 million in 2010.
+The highest annual number of departing travellers was reached in 2008 with a total number of 14.3 million. The lowest number was 11.3 million in 2010.
 
 The most recent figures (2013), show that numbers have recovered to 11.9 million travellers.
 
-##### Travellers to Eastern Europe overtake those to Northern Europe
-
-Numbers of travellers to Eastern Europe overtook those to Northern Europe in 2008.
-
-In 2005 where were 285,200 departing passengers to Eastern Europe. There are now 686,400 (2013).
-
-Poland is the country which is most responsible for this increase. In 2005 75,400 passengers flew to the country. By 2013 this had increased to 458,600.
-
 ##### Large increase in numbers flying to Africa and Asia
 
-Over the period numbers flying to Africa went from 23,200 to 328,700. Most of this is due to the much greater numbers flying to the Canary Islands.
+Over the period numbers flying to Africa went from 23,200 to 328,700. Most of this is due to the much greater numbers flying to the Canary Islands on scheduled flights.
 
 The equivalent figures for Asia show that passenger numbers increased from 2,100 to 322,600. Much of this increase is due to huge increases in traffic to the UAE.
 
 ---
 
-If you're interested, check out the [technical details](https://github.com/prockley/Air_Passengers_Dep_raw.densitydesign/tree/master) and [data](https://github.com/prockley/Air_Passengers_Dep_raw.densitydesign/tree/master/data).
+If you're interested, check out the [data](https://github.com/prockley/Air_Passengers_Dep_raw.densitydesign/tree/master/data) and [technical details](https://github.com/prockley/Air_Passengers_Dep_raw.densitydesign/tree/master).
