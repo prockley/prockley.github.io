@@ -41,7 +41,7 @@ categories: jekyll svg
 
 Using CSO data this post looks at how the number of passengers travelling on domestic routes in the Republic has reduced since 2005.
 
-The chart shows the numbers of travellers leaving Irish airports from 2005 to 2013 on scheduled flights. The thicker the line the more travellers are leaving for the region indicated. Flights to domestic airports are highlighted in <span style="color: rgb(253,141,60);">Orange</span>.
+The chart shows the numbers of travellers leaving Irish airports from 2005 to 2013 on __scheduled__ flights. The thicker the line the more travellers are leaving for the region indicated. Flights to domestic airports are highlighted in <span style="color: rgb(253,141,60);">Orange</span>.
 
 <div class="svg-container_16-9">
   <object type="image/svg+xml" data="{{ site.baseurl }}/images/141228_DestRegionsYears_IrelandHighlight.svg" width="100%" height="100%" class="svg-content">Your browser does not support SVG
@@ -66,7 +66,7 @@ The most recent figures (2013), show a sight recovery to 11.9 million travellers
 
 ##### Large increase in numbers flying to Africa and Asia
 
-Over the period, numbers flying to Africa went from 23,200 to 328,700. Most of this is due to the much greater numbers flying to the Canary Islands on scheduled flights.
+Over the period, numbers flying to Africa went from 23,200 to 328,700. Most of this is due to the much greater numbers flying to the Canary Islands on __scheduled__ flights. When I went back to the CSO site it was clear that there had been a correspondingly large decrease in the numbers flying on __unscheduled__ flights.
 
 The equivalent figures for Asia show that passenger numbers increased from 2,100 per year to 322,600 - _an average growth rate of 88% per year_. Much of this increase is due to huge increases in traffic to the UAE.
 
