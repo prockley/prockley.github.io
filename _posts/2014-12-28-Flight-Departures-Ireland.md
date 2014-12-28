@@ -58,7 +58,7 @@ It is commonly thought that the main drivers of this massive reduction were the 
 
 ### Other trends...
 
-##### Recovery in overall Passenger Numbers
+##### Recovery in overall passenger numbers
 
 The highest annual number of departing travellers was reached in 2008 with a total number of 14.3 million. The lowest number was 11.3 million in 2010.
 
