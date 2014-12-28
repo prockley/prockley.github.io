@@ -68,7 +68,7 @@ The most recent figures (2013), show a sight recovery to 11.9 million travellers
 
 Over the period, numbers flying to Africa went from 23,200 to 328,700. Most of this is due to the much greater numbers flying to the Canary Islands on __scheduled__ flights. _When I went back to the CSO data it was clear that there had been a correspondingly large decrease in the numbers flying on unscheduled flights_.
 
-The equivalent figures for Asia show that passenger numbers increased from 2,100 per year to 322,600 - _an average growth rate of 88% per year_. Much of this is due to huge expansion in traffic to the UAE.
+The equivalent figures for Asia show that passenger numbers increased from 2,100 per year to 322,600 - _an average growth rate of 88% per year_. Much of this is due to the huge expansion in traffic to the UAE.
 
 ---
 
