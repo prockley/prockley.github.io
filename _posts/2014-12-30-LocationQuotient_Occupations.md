@@ -14,7 +14,9 @@ Eos eleifend reprimique interesset ea, ut iisque legimus dissentiunt mel, quo cu
 
 <iframe
   style="border: 0px;"
-  src="https://public.tableausoftware.com/views/OverRepresentedOccupationsinIreland_Blog/Dashboard2?%3AshowVizHome=no#3" width="445px" height="480px">
+  src="https://public.tableausoftware.com/views/OverRepresentedOccupationsinIreland_Blog/Dashboard2?%3AshowVizHome=no#3"
+  scrolling="no"
+  width="445px" height="560px">
 </iframe>
 
 ---
