@@ -1,10 +1,19 @@
 ---
 layout:     post
 title:      Over-Represented Occupations in Ireland
-date:       2014-12-14 12:31:19
+date:       2014-12-15 12:31:20
 summary:    Looking at which occupations are more common in different areas of Ireland.
 categories: tableau
 ---
+
+<head>
+  <style>
+  .tableau-container { 
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+  }
+  </style>
+ </head>
 
 ### Which Jobs are over-represented in different parts of Ireland?
 
@@ -22,12 +31,14 @@ The ratio between these two measures is the 'Location Quotient'. So for Cork Cit
 
 _(The map below shows the data. The bigger the dot the greater the over-representation. The chart is interactive but if you pinch or zoom into a corner just refresh the page.)_
 
-<iframe
-  style="border: 0px;"
-  src="https://public.tableausoftware.com/views/OverRepresentedOccupationsinIreland_Blog/Dashboard2?%3AshowVizHome=no#3"
-  scrolling="no"
-  width="445px" height="560px">
-</iframe>
+<div class="tableau-container">
+	<iframe
+	  style="border: 0px;"
+	  src="https://public.tableausoftware.com/views/OverRepresentedOccupationsinIreland/Blog_Post?%3AshowVizHome=no#3"
+	  scrolling="no"
+	  width="445px" height="560px">
+	</iframe>
+</div>
 
 ##### ...and what about the most common jobs?
 
@@ -35,4 +46,4 @@ Of the 34 county and city areas the most common occupational categories are 'Oth
 
 ---
 
-This information was originally presented entirely in Tableau Public - this can be seen [here](http://public.tableausoftware.com/shared/NZYBYF4QT?:display_count=no). Technical details and data can be found under the 'i' at the bottom left of the page.
+This information was originally presented entirely in Tableau Public - this can be seen [here](http://public.tableausoftware.com/shared/NZYBYF4QT?:display_count=no). Technical details and data can be found under the '__i__' at the bottom left of the page.
