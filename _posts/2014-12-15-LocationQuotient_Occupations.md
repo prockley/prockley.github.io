@@ -34,7 +34,7 @@ _(The map below shows the data. The bigger the dot the greater the over-represen
 <div class="tableau-container">
 	<iframe
 	  style="border: 0px;"
-	  src="https://public.tableausoftware.com/views/OverRepresentedOccupationsinIreland/Blog_Post?%3AshowVizHome=no#3"
+	  src="https://public.tableausoftware.com/views/OverRepresentedOccupationsinIreland_Blog/Dashboard2?%3AshowVizHome=no#3"
 	  scrolling="no"
 	  width="445px" height="560px">
 	</iframe>
