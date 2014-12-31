@@ -42,8 +42,8 @@ _(The map below shows the data. The bigger the dot the greater the over-represen
 
 ##### ...and what about the most common jobs?
 
-Of the 34 county and city areas the most common occupational categories are 'Other/not stated' (20) and 'Administrative occupations' (10).
+Nothing much to see here... of the 34 county and city areas the most common are 'Other/not stated' (20) and 'Administrative occupations' (10).
 
 ---
 
-This information was originally presented entirely in Tableau Public - this can be seen [here](http://public.tableausoftware.com/shared/NZYBYF4QT?:display_count=no). Technical details and data can be found under the '__i__' at the bottom left of the page.
+This information was originally presented entirely in Tableau Public [here](http://public.tableausoftware.com/shared/NZYBYF4QT?:display_count=no). Data and details can be found under the '__i__' at the bottom of the page.
