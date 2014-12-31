@@ -2,7 +2,7 @@
 layout:     post
 title:      Over-Represented Occupations in Ireland
 date:       2014-12-16 12:31:20
-summary:    Looking at which occupations are more common in different areas of Ireland.
+summary:    Cork City is the Capital of Customer Service.
 categories: tableau
 ---
 
