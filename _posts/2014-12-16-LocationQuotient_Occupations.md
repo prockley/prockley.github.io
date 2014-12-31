@@ -29,7 +29,9 @@ In Cork City there are 1,656 Customer Service jobs out of a total 55,328 jobs, w
 
 The ratio between these two measures is the 'Location Quotient'. So for Cork City the measure for Customer Service jobs is 299 divided by 102, giving 2.9.
 
-##### Results - Top 5
+### Results
+
+##### ...top 5
 
  Below are the areas with the most over-represented occupations. __Cork City tops the table with 2.9 times as many Customer Service employees compared to the national average__ (per 10,000 jobs).
 
@@ -39,7 +41,7 @@ The ratio between these two measures is the 'Location Quotient'. So for Cork Cit
 - 2.2 - Laois __+__ Protective service occupations
 - 2.2 - Cavan __+__ Skilled agricultural and related trades
 
-##### Results - by County/City
+##### ...by County/City
 
 The map below shows the most over-represented occupations in each County/City. The bigger the dot the greater the over-representation. (The chart is interactive but if you pinch or zoom into a dead end just refresh the webpage.)
 
