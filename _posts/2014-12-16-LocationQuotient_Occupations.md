@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Over-Represented Occupations in Ireland
+title:      Over-Represented Jobs
 date:       2014-12-16 12:31:20
-summary:    It turns out Cork City is the real capital of customer service.
+summary:    It turns out Cork City is the real Irish capital of customer service.
 categories: tableau
 ---
 
