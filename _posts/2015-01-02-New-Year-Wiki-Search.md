@@ -45,7 +45,7 @@ It looks like Queen's BBC1 show did wonders for their good showing in the result
 
 ##### Technical details...
 
-The Wikimedia log file for the hour after New Years (GMT) was downloaded [here](https://dumps.wikimedia.org/other/pagecounts-raw/2015/2015-01/) (_"Page view statistics for Wikimedia projects"_).
+The Wikimedia log file for the hour after New Year (GMT) was downloaded [here](https://dumps.wikimedia.org/other/pagecounts-raw/2015/2015-01/) (_"Page view statistics for Wikimedia projects"_).
 
 It was then loaded into a Linux virtual machine where the terminal and 'grep' command were used to search through the log file's 5.9M records.
 
