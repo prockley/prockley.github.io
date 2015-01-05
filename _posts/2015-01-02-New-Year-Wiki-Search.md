@@ -36,8 +36,8 @@ _(*Note that these results include page views stats from all over the world for 
 
 It looks like Queen's BBC1 show did wonders for their good showing in the results - searches related to the band accounted for 4 of the top 10 results. There was no sign of the artists on Jools Holland's Hootenanny which was on BBC2 at the same time.
 
+![Queen and Adam Lambert](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AdamLambert-Queen_7-1-14_SJ.jpg/512px-AdamLambert-Queen_7-1-14_SJ.jpg)
 <p>
-	<a href="http://commons.wikimedia.org/wiki/File:AdamLambert-Queen_7-1-14_SJ.jpg#mediaviewer/File:AdamLambert-Queen_7-1-14_SJ.jpg"><img alt="AdamLambert-Queen 7-1-14 SJ.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AdamLambert-Queen_7-1-14_SJ.jpg/512px-AdamLambert-Queen_7-1-14_SJ.jpg" height="480" width="640"></a><br>
 	<a href="http://commons.wikimedia.org/wiki/File:AdamLambert-Queen_7-1-14_SJ.jpg#mediaviewer/File:AdamLambert-Queen_7-1-14_SJ.jpg">Image</a> from <a rel="nofollow" class="external text" href="https://twitter.com/DianaKat1">@DianaKat1</a>. Licensed under <a title="Creative Commons Attribution-Share Alike 3.0" href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>.
 </p>
 
