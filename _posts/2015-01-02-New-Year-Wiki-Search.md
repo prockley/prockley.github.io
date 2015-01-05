@@ -49,6 +49,6 @@ The Wikimedia log file for the hour after New Year (GMT) was downloaded [here](h
 
 It was then loaded into a Linux virtual machine where the terminal and 'grep' command were used to search through the log file's 5.9M records.
 
-This grep search looked for all lines that started with 'en_' (entries related to English language Wikipedia pages). It then ranked the resulting lines in descending order of popularity (page views).
+This grep search looked for all lines that started with 'en_' (entries related to English language Wikipedia pages). It then ranked the resulting lines in order of popularity (page views).
 
 Three humdrum results were removed from the top 10 shown above ([Main_Page](http://en.wikipedia.org/wiki/Main_Page), [Special:HideBanners](http://en.wikipedia.org/wiki/Special:HideBanners), [Special:Search](http://en.wikipedia.org/wiki/Special:Search)).
