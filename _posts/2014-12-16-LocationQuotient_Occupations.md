@@ -54,6 +54,8 @@ The map below shows the most over-represented occupations in each County/City. T
 	</iframe>
 </div>
 
+(_Done with [Tableau software](http://www.tableausoftware.com/public/about-tableau-products)._)
+
 ---
 
 ##### ...and what about the most common jobs?
