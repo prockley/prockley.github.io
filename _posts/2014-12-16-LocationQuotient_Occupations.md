@@ -10,7 +10,7 @@ categories: tableau
   <style>
   .tableau-container { 
     margin-top: 0.5rem;
-    margin-bottom: 0rem;
+    margin-bottom: 0rem
   }
   </style>
 </head>
