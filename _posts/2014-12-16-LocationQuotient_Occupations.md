@@ -62,8 +62,10 @@ The map below shows the most over-represented occupations in each County/City. T
 
 Nothing hugely insightful here... of the 34 county and city areas the top three are 'Other/not stated' (20), 'Administrative occupations' (10), and 'Skilled Agriculture & related trades (3).
 
-Most surprising is the result for Dún Laoghaire-Rathdown. Here the most common occupation is 'Corporate Managers and Directors'. 
+Most surprising is the result for Dún Laoghaire-Rathdown. Here the most common occupation is 'Corporate Managers and Directors'.  
 
 ---
+
+Data Source: [www.cso.ie](http://www.cso.ie).  
 
 Much of the above was originally presented entirely in Tableau Public [here](http://public.tableausoftware.com/shared/NZYBYF4QT?:display_count=no). Data and details can be found under the '__i__' at the bottom of the page.
