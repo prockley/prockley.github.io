@@ -31,7 +31,7 @@ It is to be expected that women should have lower rates given their traditional 
 
 _Female:_ It can be seen that participation rates for females are above average in many western areas. The cities of Dublin, Waterford and Galway also have high rates.
 
-_Male:_ There is a much more distinct urban/rural divide here. All 5 main cities have rates at or below average, while rural areas are all above.
+_Male:_ There is a much more distinct urban/rural divide here. All 5 main cities have rates at or below average, while all other areas are above.
 
 ---
 
@@ -41,4 +41,4 @@ Data Source: [Central Statistics Office](http://www.cso.ie)
 
 Mapping: Contains Ordnance Survey Ireland data © [OSi](http://www.osi.ie) 2012
 
-...I'll come clean. One of the main reasons for this post was to get started with mapping in D3 (an open-source javavscript library used to display information online). There was quite abit to it so if you're interested click [here](https://github.com/prockley).
+...I'll come clean. One of the main reasons for this post was to get started with mapping in D3 (an open-source javavscript library used to display information online). There was quite abit to it; if you're interested click [here](https://github.com/prockley/LabourForceParticipation_D3Mapping).
