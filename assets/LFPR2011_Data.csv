@@ -1,0 +1,35 @@
+id,name,adm1_code,varA_F,varB_M
+1,Carlow,C01,71.2,89.8
+2,Dublin City,C02,79,88.3
+3,South Dublin,C03,76.1,92.6
+4,Fingal,C04,77.9,93.9
+5,D&uacute;n Laoghaire-Rathdown,C05,77.8,93
+6,Kildare,C06,74.7,93
+7,Kilkenny,C07,77.3,92.2
+8,Laois,C08,73.4,91.6
+9,Longford,C09,73.9,91.4
+10,Louth,C10,74.5,91
+11,Meath,C11,74.9,94.2
+12,Offaly,C12,72.8,92.1
+13,Westmeath,C13,74.3,91.6
+14,Wexford,C14,72.2,91.8
+15,Wicklow,C15,73.5,92.8
+16,Clare,C16,76.7,92.3
+17,Cork City,C17,72.8,85.8
+18,Cork County,C18,75.2,93.3
+19,Kerry,C19,74.9,91.4
+20,Limerick City,C20,70.7,84.4
+21,Limerick County,C21,74.7,91.1
+22,North Tipperary,C22,74.7,91.7
+23,South Tipperary,C23,74.4,91.3
+24,Waterford City,C24,76.7,89.2
+25,Waterford County,C25,74.2,92.4
+26,Galway City,C26,78.8,86.9
+27,Galway County,C27,77.1,92.2
+28,Leitrim,C28,77.3,91.2
+29,Mayo,C29,75.5,90.9
+30,Roscommon,C30,75.8,91
+31,Sligo,C31,78.7,90.6
+32,Cavan,C32,74.2,92.3
+33,Donegal,C33,73,90.3
+34,Monaghan,C34,76.3,92.4
