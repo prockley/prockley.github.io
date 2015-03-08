@@ -8,7 +8,7 @@ categories: D3
 
 ###Gender comparison using 2011 Census data (ages 25-54)
 
-The purpose of this post was to get an idea of the geographic distribution of participation rates over the whole country. The data was restricted to the 25-54 age range to highlight the times when people are most likely to be working and rearing a family.  
+The purpose of this post was to get an idea of the geographic distribution of participation rates over the whole country. The data was restricted to the 25-54 age group to highlight the times when people are most likely to be working and rearing a family.  
 
 __Labour force participation rate:__ _The labour force (those at work, looking for first regular job, and unemployed) as a percentage of the total population._
 
@@ -18,12 +18,12 @@ Here is the map - hover over for more information (_'hover-over' not currently p
 
 #####Overall Male v Female
 
-The ranges for both genders were found to be:-
+The range of values were found to be:-
 
 - Female: 70.7% (Limerick City) to 79.0% (Dublin City).
 - Male: 84.4% (Limerick City) to 94.2% (Meath).
 
-It is to be expected that women should have lower rates given their traditional role in bringing up the kids.
+It is to be expected that women should have lower rates given their traditional role in rearing the family.
 
 ---
 
@@ -37,8 +37,9 @@ _Male:_ There is a much more distinct urban/rural divide here. All 5 main cities
 
 #####Technical details...
 
+...I'll come clean. One of the main reasons for this post was to get started with mapping in D3 (an open-source javavscript library used to display information online). There was quite abit to it; if you're interested click [here](https://github.com/prockley/LabourForceParticipation_D3Mapping).
+
 Data Source: [Central Statistics Office](http://www.cso.ie)
 
 Mapping: Contains Ordnance Survey Ireland data © [OSi](http://www.osi.ie) 2012
 
-...I'll come clean. One of the main reasons for this post was to get started with mapping in D3 (an open-source javavscript library used to display information online). There was quite abit to it; if you're interested click [here](https://github.com/prockley/LabourForceParticipation_D3Mapping).
