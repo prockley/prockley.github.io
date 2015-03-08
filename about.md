@@ -8,4 +8,4 @@ Having recently been educated in the ways of data analytics at CIT Cork, I set u
 
 With any luck there'll be some interesting stuff to put up here.
 
-\- _Paul._ 
+\- _Paul, December 2014._ 
