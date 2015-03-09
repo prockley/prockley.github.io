@@ -29,7 +29,7 @@ It is to be expected that women should have lower rates given their traditional 
 
 #####Each gender separately
 
-_Female:_ It can be seen that participation rates for females are above average in many western areas. The cities of Dublin, Waterford and Galway also have high rates.
+_Female:_ It can be seen that participation rates for females are above average in many western counties. The cities of Dublin, Waterford and Galway also have high rates.
 
 _Male:_ There is a much more distinct urban/rural divide here. All 5 main cities have rates at or below average, while all other areas are above.
 
