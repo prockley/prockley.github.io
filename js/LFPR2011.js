@@ -1,5 +1,7 @@
 /*********************************************************
-Based on tutorial found on the following page
+Choropleth of Labour Force Projection Rates in Ireland 2011
+
+Based in part on tutorial found here:-
 http://www.cartographicperspectives.org/index.php/journal/article/view/1278/1359
 **********************************************************/
 
@@ -48,16 +50,16 @@ function setMap(){
 	//create a new SVG element with the above dimensions
 	var map = d3.select("body")
 		.append("svg")
-			.attr("width", width)
-			.attr("height", height)
-			.attr("class", "map");
+		.attr("width", width)
+		.attr("height", height)
+		.attr("class", "map");
 
 	//draw the colour palette legend
 	var colorPanelWidth = 20 // the width of each block of colour
 	var xPosIni = 90 // leftmost edge of legend
 
 	map.selectAll("rect")
-    .data(colorPalette).enter()
+		.data(colorPalette).enter()
     .append("rect")
     .attr("fill", function (color){ return color; })
     .attr("x", function (color, index){
