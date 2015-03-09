@@ -60,14 +60,14 @@ function setMap(){
 
 	map.selectAll("rect")
 		.data(colorPalette).enter()
-    .append("rect")
-    .attr("fill", function (color){ return color; })
-    .attr("x", function (color, index){
-    	return xPosIni + (index * colorPanelWidth) + "px";
-    })
-    .attr("y", height-35)
-    .attr("width", colorPanelWidth + "px")
-    .attr("height", 10 + "px");
+		.append("rect")
+		.attr("fill", function (color){ return color; })
+		.attr("x", function (color, index){
+			return xPosIni + (index * colorPanelWidth) + "px";
+		})
+		.attr("y", height-35)
+		.attr("width", colorPanelWidth + "px")
+		.attr("height", 10 + "px");
 
 	map.selectAll("text")
 		.data(["below average", "above average"]).enter()
