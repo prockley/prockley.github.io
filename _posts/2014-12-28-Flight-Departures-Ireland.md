@@ -44,7 +44,7 @@ Using CSO data this post looks at how the number of passengers travelling on dom
 The chart shows the numbers of travellers leaving Irish airports from 2005 to 2013 on __scheduled__ flights. The thicker the line the more travellers are leaving for the region indicated. Flights to domestic airports are highlighted in <span style="color: rgb(253,141,60);">Orange</span>.
 
 <div class="svg-container_16-9">
-  <object type="image/svg+xml" data="{{ site.baseurl }}/images/141228_DestRegionsYears_IrelandHighlight.svg" width="auto" height="100%" class="svg-content">Your browser does not support SVG
+  <object type="image/svg+xml" data="{{ site.baseurl }}/images/141228_DestRegionsYears_IrelandHighlight.svg" width="100%" height="100%" class="svg-content">Your browser does not support SVG
   </object>
 </div>
 
