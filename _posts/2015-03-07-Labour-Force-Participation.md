@@ -37,7 +37,7 @@ _Male:_ There is a much more distinct urban/rural divide here. All 5 main cities
 
 #####Technical details...
 
-...I'll come clean. One of the main reasons for this post was to get started with mapping in D3 (an open-source javavscript library used to display information online). There was quite abit to it; if you're interested click [here](https://github.com/prockley/LabourForceParticipation_D3Mapping).
+...I'll come clean. One of the main reasons for this post was to get started with mapping in D3 (an open-source javascript library used to display information online). There was quite a bit to it; if you're interested click [here](https://github.com/prockley/LabourForceParticipation_D3Mapping).
 
 Data Source: [Central Statistics Office](http://www.cso.ie)
 
