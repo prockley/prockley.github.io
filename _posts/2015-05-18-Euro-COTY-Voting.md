@@ -64,7 +64,7 @@ Some things to note from this:-
 * Three of the countries give US brands (almost entirely **Ford** in this dataset) lower scores. The UK is the exception; Ford has always had a large manufacturing base there which may impact this result.
 * While the data for **Romanian brands** is sparse, France does appear to be very well disposed to their cars. But this is less of a surprise when we find that all of these votes relate to Dacia, a brand that is wholly owned by France's Renault.
 
-
+ 
 ---
 
 Data Source: The official website of the [European Car of the Year](http://www.caroftheyear.org/).  
