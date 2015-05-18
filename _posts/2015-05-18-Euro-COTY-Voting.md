@@ -25,7 +25,7 @@ The graph below shows how jury members from countries with their own car brands 
 
  * Each dot represents a jury member's vote for one car.
  * The horizontal placement of the dot represents how the vote differed from the overall result for a car. *For example, if a car received an overall score of 8 but a jury member only awarded 5, the dot is placed at minus 3 showing the difference from the average.*
- * [Boxplots](http://www.en.wikipedia.org/wiki/Box_plot) are used to summarise the groupings of jury member votes for each country. In this plot the boxes show the range of the middle half of the votes (i.e. those contained between the 1<sup>st</sup> and 3<sup>rd</sup> quantiles.).
+ * [Boxplots](http://www.en.wikipedia.org/wiki/Box_plot) are used to summarise the groupings of jury member votes for each country. In this plot the boxes show the range of the middle half of the votes (i.e. those contained between the 1<sup>st</sup> and 3<sup>rd</sup> quartiles.).
 
  France and Germany have by far the greatest number of vote 'dots' as they have had the most cars in the competition.
 
