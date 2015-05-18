@@ -24,7 +24,7 @@ In a word - **YES!**
 The graph below shows how jury members from countries with their own car brands voted.
 
  * Each dot represents a jury member's vote for one car.
- * The horizontal placement of the dot represents how the vote differed from the overall result for a car. *For example, if a car received an overall score of 8 but a jury member only awarded 5, the dot is placed at minus 3 showing the difference from the average.*
+ * The horizontal placement of the dot represents how the vote differed from the overall result for a car. *For example, if a car received an overall score of 8 but a jury member only awarded 5, the dot is placed at minus 3 showing the difference from the overall.*
  * [Boxplots](http://www.en.wikipedia.org/wiki/Box_plot) are used to summarise the groupings of jury member votes for each country. In this plot the boxes show the range of the middle half of the votes (i.e. those contained between the 1<sup>st</sup> and 3<sup>rd</sup> quartiles.).
 
  France and Germany have by far the greatest number of vote 'dots' as they have had the most cars in the competition.
@@ -33,13 +33,13 @@ The graph below shows how jury members from countries with their own car brands 
 
 **What this shows is that, on average, all country juries give cars from their home-grown brands better marks than the overall result (votes from all countries).**
 
-This type of behaviour can perhaps be expected. It's reasonable to assume that car makers will design cars that suit their own people first and foremost. So when motoring journalists test these cars, that have been designed largely for them, it is likely that they will be well disposed towards them.
+This type of behaviour can perhaps be expected. It's reasonable to assume that car makers will design cars that suit their own people first and foremost. So when motoring journalists test these cars, that have been designed largely for them, it is likely that they will be well disposed towards them. Or maybe they just like to see the home team win!
 
 ---
 
 ### Pattern 2 - How do specific countries vote for brands from different countries?
 
-There isn't enough space to shows graphs for each country so I'll start with my home country of Ireland, and then look at the four large car producers in Europe.
+There isn't enough space here to show graphs for each country so I'll start with my home country of Ireland, and then look at the four large car producers in Europe.
 
 ##### here are the results for Ireland...
 
