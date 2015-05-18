@@ -34,6 +34,7 @@ The graph below shows only countries which have their own native car brands. The
 **What this shows is that, on average, all country juries give cars from their home-grown brands better marks than the overall result (votes from all countries).**
 
 This type of behaviour can perhaps be expected. It's reasonable to assume that car makers will design cars that suit their own people first and foremost. So when motoring journalists test these cars, that have been designed largely for them, it is likely that they will be well disposed towards them.
+
 ...or maybe they just like to see the home team win!
 
 ---
