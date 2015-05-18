@@ -33,7 +33,8 @@ The graph below shows only countries which have their own native car brands. The
 
 **What this shows is that, on average, all country juries give cars from their home-grown brands better marks than the overall result (votes from all countries).**
 
-This type of behaviour can perhaps be expected. It's reasonable to assume that car makers will design cars that suit their own people first and foremost. So when motoring journalists test these cars, that have been designed largely for them, it is likely that they will be well disposed towards them. ...or maybe they just like to see the home team win!
+This type of behaviour can perhaps be expected. It's reasonable to assume that car makers will design cars that suit their own people first and foremost. So when motoring journalists test these cars, that have been designed largely for them, it is likely that they will be well disposed towards them.
+...or maybe they just like to see the home team win!
 
 ---
 
@@ -47,7 +48,7 @@ There isn't enough space here to show graphs for each country so I'll start with
 
 ![image2]({{ site.baseurl }}/images/150518_COTY_image2.png)
 
-This shows that Ireland is better disposed to car brands from USA (mostly Ford in this dataset), Japan and the Czech Republic (all Skoda).
+This shows that Ireland is better disposed to car brands from the USA (mostly Ford in this dataset), Japan and the Czech Republic (all Skoda).
 
 It also shows that **there appears to be a bias against French cars in Ireland**. The line in the centre of the French boxplot shows that the median Irish vote is 1.5 less than the Europe-wide overall score.
 
