@@ -45,7 +45,7 @@ There isn't enough space to shows graphs for each country so I'll start with my 
 
 (Remember this shows how scores from Irish jury members differ from the overall scores.)
 
-![image2]({{ site.baseurl }}/images_draft/150518_COTY_image2.png)
+![image2]({{ site.baseurl }}/images/150518_COTY_image2.png)
 
 This shows that Ireland is better disposed to car brands from USA (mostly Ford in this dataset), Japan and the Czech Republic (all Skoda).
 
@@ -55,7 +55,7 @@ It also shows that **there appears to be a bias against French cars in Ireland**
 
 This is a slightly monstrous chart but if you followed the earlier ones this should be understandable. It shows how jury members from these 4 countries voted for the car brands of different countries.
 
-![image3]({{ site.baseurl }}/images_draft/150518_COTY_image3.png)
+![image3]({{ site.baseurl }}/images/150518_COTY_image3.png)
 
 Some things to note from this:-
 
