@@ -33,7 +33,7 @@ The graph below shows only countries which have their own native car brands. The
 
 **What this shows is that, on average, all country juries give cars from their home-grown brands better marks than the overall result (votes from all countries).**
 
-This type of behaviour can perhaps be expected. It's reasonable to assume that car makers will design cars that suit their own people first and foremost. So when motoring journalists test these cars, that have been designed largely for them, it is likely that they will be well disposed towards them. Or maybe they just like to see the home team win!
+This type of behaviour can perhaps be expected. It's reasonable to assume that car makers will design cars that suit their own people first and foremost. So when motoring journalists test these cars, that have been designed largely for them, it is likely that they will be well disposed towards them. ...or maybe they just like to see the home team win!
 
 ---
 
@@ -49,11 +49,11 @@ There isn't enough space here to show graphs for each country so I'll start with
 
 This shows that Ireland is better disposed to car brands from USA (mostly Ford in this dataset), Japan and the Czech Republic (all Skoda).
 
-It also shows that **there appears to be a bias against French cars in Ireland**. The line in the centre of the french boxplot shows that the median Irish vote is 1.5 less than the Europe-wide overall score.
+It also shows that **there appears to be a bias against French cars in Ireland**. The line in the centre of the French boxplot shows that the median Irish vote is 1.5 less than the Europe-wide overall score.
 
 ##### ...and how about the four powerhouses of car brands in Europe? (France, Germany, Italy & UK)
 
-This is a slightly monstrous chart but if you followed the earlier ones this should be understandable. It shows how jury members from these 4 countries voted for the car brands of different countries.
+This is a slightly monstrous chart but if you followed the earlier ones this should be understandable. It shows how jury members from these 4 countries voted for the car brands of various countries.
 
 ![image3]({{ site.baseurl }}/images/150518_COTY_image3.png)
 
