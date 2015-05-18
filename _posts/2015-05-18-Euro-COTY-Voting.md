@@ -21,7 +21,7 @@ Here are two things I found...
 
 In a word - **YES!**
 
-The graph below shows how jury members from countries with their own car brands voted.
+The graph below shows only countries which have their own native car brands. The dots represent how local jury members from each of these countries voted for their local brands.
 
  * Each dot represents a jury member's vote for one car.
  * The horizontal placement of the dot represents how the vote differed from the overall result for a car. *For example, if a car received an overall score of 8 but a jury member only awarded 5, the dot is placed at minus 3 showing the difference from the overall.*
@@ -41,7 +41,7 @@ This type of behaviour can perhaps be expected. It's reasonable to assume that c
 
 There isn't enough space here to show graphs for each country so I'll start with my home country of Ireland, and then look at the four large car producers in Europe.
 
-##### here are the results for Ireland...
+##### Here are the results for Ireland...
 
 (Remember this shows how scores from Irish jury members differ from the overall scores.)
 
