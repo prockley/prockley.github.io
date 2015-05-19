@@ -55,7 +55,7 @@ It also shows that **there appears to be a bias against French cars in Ireland**
 
 ##### ...and how about the four powerhouses of car brands in Europe? (France, Germany, Italy & UK)
 
-This is a slightly monstrous chart but if you followed the earlier ones this should be understandable. It shows how jury members from these 4 countries voted for the car brands of various countries.
+This is a slightly monstrous chart but if you followed the earlier ones it should be understandable. It shows how jury members from these 4 countries voted for the car brands of various countries.
 
 ![image3]({{ site.baseurl }}/images/150518_COTY_image3.png)
 
