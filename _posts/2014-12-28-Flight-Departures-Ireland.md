@@ -12,7 +12,7 @@ categories: jekyll svg
     display: inline-block;
     position: relative;
     width: 100%;
-    padding-bottom: 56.25%; 
+    padding-bottom: 0%; 
     vertical-align: middle; 
     overflow: hidden;
     margin-top: 0.5rem;
