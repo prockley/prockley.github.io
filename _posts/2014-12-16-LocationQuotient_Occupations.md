@@ -68,4 +68,4 @@ Most surprising is the result for Dún Laoghaire-Rathdown. Here the most common 
 
 Data Source: [www.cso.ie](http://www.cso.ie).  
 
-Much of the above was originally presented entirely in Tableau Public [here](http://public.tableausoftware.com/shared/NZYBYF4QT?:display_count=no). Data and details can be found under the '__i__' at the bottom of the page.
+Much of the above was originally presented entirely in Tableau Public [here](https://public.tableau.com/views/OverRepresentedOccupationsinIreland/JobMapBlog?:embed=y&:showTabs=y&:display_count=yes&:toolbar=no). Data and details can be found under the '__i__' at the bottom of the page.
