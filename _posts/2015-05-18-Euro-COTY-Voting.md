@@ -27,7 +27,7 @@ The graph below shows only countries which have their own native car brands. The
  * The horizontal placement of the dot represents how the vote differed from the overall result for a car. *For example, if a car received an overall score of 8 but a jury member only awarded 5, the dot is placed at minus 3 showing the difference from the overall.*
  * [Boxplots](http://www.en.wikipedia.org/wiki/Box_plot) are used to summarise the groupings of jury member votes for each country. In this plot the boxes show the range of the middle half of the votes (i.e. those contained in the 2<sup>nd</sup> and 3<sup>rd</sup> quartiles.).
 
- France and Germany have by far the greatest number of vote 'dots' as they have had the most cars in the competition.
+France and Germany have by far the greatest number of vote dots as they have large numbers of both cars and judges in the competition.
 
 ![image1]({{ site.baseurl }}/images/150518_COTY_image1.png)
 
