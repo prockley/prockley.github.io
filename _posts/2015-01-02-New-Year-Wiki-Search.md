@@ -32,7 +32,7 @@ _(no. of page views shown in brackets)_
 9. [Brian May](http://en.wikipedia.org/wiki/Brian_May) (6,390) - Queen's lead guitarist.
 10. [Auld Lang Syne](http://en.wikipedia.org/wiki/Auld_Lang_Syne) (5,925) - People wondering why that song is always sung?
 
-_(*Note that these results include English language page views stats from all over the world for the hour after midnight (GMT), not just the UK and Ireland.)_
+_(*Note that these results include English language page views stats from all over the world for the hour after midnight (GMT); they are not just for the UK and Ireland but given the time it could be assumed that many of the result are from these two countries.)_
 
 It looks like Queen's BBC1 show did wonders for their good showing in the results - searches related to the band accounted for 4 of the top 10 results. There was no sign of the artists on Jools Holland's Hootenanny which was on BBC2 at the same time.
 
